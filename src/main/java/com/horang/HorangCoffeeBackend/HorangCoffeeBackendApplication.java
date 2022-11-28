@@ -9,5 +9,4 @@ public class HorangCoffeeBackendApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(HorangCoffeeBackendApplication.class, args);
 	}
-
 }
